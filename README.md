@@ -26,7 +26,7 @@ I am Shreeya Shakya
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: -->
+- ⚡ Fun fact: My repositories are private
  
 
 
