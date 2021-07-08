@@ -21,12 +21,13 @@ I am Shreeya Shakya
 - ❤  I love math and programming
 - ⚒  I have done projects using Java, Python, HTML/CSS, Bootstrap, React, MySQL
 - ✨  I have built websites as well as android application
+- ⚡ Fun fact: My repositories are private
+
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: My repositories are private
  
 
 
