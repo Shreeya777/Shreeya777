@@ -14,6 +14,8 @@ I am Shreeya Shakya
  -->
 <!-- Here are some ideas to get you started:
  -->
+ 
+ 
 - 🔭 I’m currently working on something very cool 😉
 - 🌱 I’m currently learning AI and ML
 - ❤  I love math and programming
@@ -24,8 +26,8 @@ I am Shreeya Shakya
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: 
- -->
+<!-- - ⚡ Fun fact: -->
+ 
 
 
 <!-- [![Shreeya's github stats](https://github-readme-stats.vercel.app/api?username=Shreeya777&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
