@@ -1,5 +1,5 @@
-![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
-
+<!-- ![Banner](https://github.com/kmhmubin/kmhmubin/blob/master/GitHub-Profile-Cover.jpg)
+ -->
 
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
@@ -29,7 +29,7 @@ I am Shreeya Shakya
 
 
 <!-- [![Shreeya's github stats](https://github-readme-stats.vercel.app/api?username=Shreeya777&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<!-- 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +40,7 @@ I am Shreeya Shakya
 <a href="https://www.instagram.com/ayeerhs.shakya/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 
 
-</p>
+</p> -->
 
 
 
