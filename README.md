@@ -31,7 +31,7 @@ I am Shreeya Shakya
 <!-- [![Shreeya's github stats](https://github-readme-stats.vercel.app/api?username=Shreeya777&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- 
 <!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://mobile.twitter.com/shakya_shreeya" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/twitter.svg" alt="kmhmubin" height="30" width="30" /></a>
@@ -40,7 +40,7 @@ I am Shreeya Shakya
 <a href="https://www.instagram.com/ayeerhs.shakya/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 
 
-</p> -->
+</p> --> -->
 
 
 
