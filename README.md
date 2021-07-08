@@ -42,7 +42,7 @@ I am Shreeya Shakya
 <a href="https://www.instagram.com/ayeerhs.shakya/" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 
 
-</p> --> -->
+</p> --> 
 
 
 
