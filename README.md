@@ -20,7 +20,7 @@ I am Shreeya Shakya
 - 🌱 I’m currently learning React Native
 - ⚒  I have done projects using Java, Python, HTML/CSS, Bootstrap, React, Webflow, Wordpress, MySQL, Django, SQLite, C Programming
 - ✨ I have built websites as well as android application
-- ⚡ Fun fact: Currectly all my repositories are private
+- ⚡ Fun fact: All of my private reposotaries will be made public very soon.
 
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
