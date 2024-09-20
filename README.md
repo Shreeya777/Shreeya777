@@ -16,12 +16,11 @@ I am Shreeya Shakya
  -->
  
  
-- 🔭 I’m currently working on React TS and Wordpress 😉
+- 🔭 I’m currently working on React TS, Webflow and Wordpress 😉
 - 🌱 I’m currently learning React Native
 - ⚒  I have done projects using Java, Python, HTML/CSS, Bootstrap, React, Webflow, Wordpress, MySQL, Django, SQLite, C Programming
 - ✨ I have built websites as well as android application
-- ⚡ Fun fact: All of my private reposotaries will be made public very soon.
-
+  
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
