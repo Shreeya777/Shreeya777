@@ -6,7 +6,7 @@
 <h3>Glad to see you here!</h3>
 <!-- ### Hi there 👋
  -->
-I am Shreeya Shakya
+<!-- I am Shreeya Shakya -->
 
 
 
@@ -15,11 +15,7 @@ I am Shreeya Shakya
 <!-- Here are some ideas to get you started:
  -->
  
- 
-- 🔭 I’m currently working on React TS, Webflow and Wordpress 😉
-- 🌱 I’m currently learning React Native
-- ⚒  I have done projects using Java, Python, HTML/CSS, Bootstrap, React, Webflow, Wordpress, MySQL, Django, SQLite, C Programming
-- ✨ I have built websites as well as android application
+
   
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with ... -->
